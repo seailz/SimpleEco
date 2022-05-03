@@ -1,0 +1,6 @@
+name: OrbitalApplication
+version: '${project.version}'
+main: com.seailz.orbitalapplication.OrbitalApplication
+api-version: 1.18
+authors: [ Seailz ]
+website: dev.seailz.com
